@@ -1,0 +1,19 @@
+{
+  "appTitle": "Recipe Book",
+  "searchRecipes": "Search recipes...",
+  "searchHint": "e.g., 'quick chicken' or 'paneer'",
+  "addNewRecipe": "Add New Recipe",
+  "recipeTitle": "Recipe Title",
+  "titleHint": "e.g., Shahi Paneer",
+  "ingredients": "Ingredients",
+  "ingredientsHint": "e.g., 200g paneer, 1 cup cream...",
+  "instructions": "Instructions",
+  "instructionsHint": "e.g., 1. Cut the paneer...",
+  "language": "Language",
+  "save": "Save",
+  "deleteRecipe": "Delete Recipe",
+  "deleteConfirmation": "Are you sure you want to delete this recipe?",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "fieldCannotBeEmpty": "This field cannot be empty"
+}

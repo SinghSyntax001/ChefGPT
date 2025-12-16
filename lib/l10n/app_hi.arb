@@ -1,0 +1,19 @@
+{
+  "appTitle": "रेसिपी बुक",
+  "searchRecipes": "रेसिपी खोजें...",
+  "searchHint": "जैसे, 'झटपट चिकन' या 'पनीर'",
+  "addNewRecipe": "नई रेसिपी जोड़ें",
+  "recipeTitle": "रेसिपी का शीर्षक",
+  "titleHint": "जैसे, शाही पनीर",
+  "ingredients": "सामग्री",
+  "ingredientsHint": "जैसे, 200 ग्राम पनीर, 1 कप क्रीम...",
+  "instructions": "निर्देश",
+  "instructionsHint": "जैसे, 1. पनीर को काट लें...",
+  "language": "भाषा",
+  "save": "सहेजें",
+  "deleteRecipe": "रेसिपी हटाएं",
+  "deleteConfirmation": "क्या आप वाकई इस रेसिपी को हटाना चाहते हैं?",
+  "cancel": "रद्द करें",
+  "delete": "हटाएं",
+  "fieldCannotBeEmpty": "यह फ़ील्ड खाली नहीं हो सकती"
+}
