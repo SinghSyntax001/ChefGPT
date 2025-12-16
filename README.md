@@ -161,17 +161,6 @@ build/app/outputs/flutter-apk/app-release.apk
 
 ---
 
-## 🎓 Academic Use
-
-This project is suitable for:
-
-* Final Year Project
-* AI-based Mobile Application
-* Flutter Development Coursework
-* Research and Technical Report
-
----
-
 Developed by **Shashank Singh & Pallav Prakash**
 
 
